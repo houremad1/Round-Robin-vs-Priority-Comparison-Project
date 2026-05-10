@@ -133,7 +133,7 @@ screenshots/
 Project documentation is available inside:
 
 text
-docs/
+docs/https://drive.google.com/drive/folders/1EkfChzjHCF_M1qM4RUrdju97Kfp2qzBt
 
 
 ---
